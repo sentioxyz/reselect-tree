@@ -1,6 +1,6 @@
 {
-  "name": "reselect-tree",
-  "version": "1.3.7",
+  "name": "@sentio/reselect-tree",
+  "version": "1.0.0",
   "description": "Wrapper around reselect for creating selector trees",
   "main": "index.js",
   "files": [
